@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx
 
 MAINTAINER Bui Thanh Hung <hungbui1706@gmail.com>
 
